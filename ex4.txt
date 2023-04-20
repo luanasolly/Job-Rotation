@@ -1,0 +1,15 @@
+carro = 110 x t = 110t
+caminhão = 80 x t = 80t
+110t + 80t = 100
+190t = 100
+t = 100/190
+t = 0,52631579
+t = 31,57 minutos se encontram
+
+carro = 110 x t = 110t
+110 x 0,52631579 = 57,8947369 km
+caminhão = 80 x t = 80t
+80 x 0,52631579 = 42,1052632 km
+
+quando eles se cruzarem, o caminhão estará mais perto, faltando 42 km, enquanto o carro estara mais longe, faltando 57 km.
+
